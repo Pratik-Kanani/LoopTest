@@ -1,0 +1,15 @@
+C:\SwabhavTrainingRepo\day1\LoopTest\bin\Debug\net6.0\LoopTest.exe
+C:\SwabhavTrainingRepo\day1\LoopTest\bin\Debug\net6.0\LoopTest.deps.json
+C:\SwabhavTrainingRepo\day1\LoopTest\bin\Debug\net6.0\LoopTest.runtimeconfig.json
+C:\SwabhavTrainingRepo\day1\LoopTest\bin\Debug\net6.0\LoopTest.dll
+C:\SwabhavTrainingRepo\day1\LoopTest\bin\Debug\net6.0\LoopTest.pdb
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.csproj.AssemblyReference.cache
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.AssemblyInfoInputs.cache
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.AssemblyInfo.cs
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.csproj.CoreCompileInputs.cache
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.dll
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\refint\LoopTest.dll
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.pdb
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\LoopTest.genruntimeconfig.cache
+C:\SwabhavTrainingRepo\day1\LoopTest\obj\Debug\net6.0\ref\LoopTest.dll
